@@ -1,0 +1,88 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.top-text {
+    padding-top: 40px;
+}
+
+img {
+    height: 150px;
+}
+
+.one {
+    background-color: #66bfbf
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+    color: #66bfbf;
+    
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999e;
+}
+
+.about-me {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 0;
+    line-height: 2rem;
+}
+
+.two {
+    padding: 30px 0;
+    line-height: 2rem;
+}
+
+
+.skills-2 {
+    padding-top: 20px;
+}
+.three {
+    padding: 50px 0;
+    line-height: 2;
+    background-color: #acdbdb;
+}
+
+.four {
+    padding: 40px 0;
+    line-height: 2;
+}
+
+form {
+    padding: 30px;
+}
+
+.gender {
+    display: flex;
+    justify-content: space-around;
+}
+
+#submit_button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #11999e;
+    color: #fff;
+}
+
+#footer {
+    padding: 20px 0;
+    line-height: 2;
+    background-color: #11999e;
+}
